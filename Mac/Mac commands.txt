@@ -1,0 +1,36 @@
+🍎🍏The apple version:
+Shortcut Action
+Command-A Select All
+Command-B Bold selected text or toggle bold on or off
+Command-C Copy
+Command-F Find
+Command-H Hide windows of currently running application
+Command-I Italicize selected text or toggle italic on or off
+Command-M Minimize
+Command-N New
+Command-O Open
+Command-P Print
+Command-Q Quit Logos
+Command-S Save
+Command-V Paste
+Command-W Close
+Command-X Cut
+Command-Z Undo
+Command-comma Preferences
+Command-Tab Switch Programs
+Command-Down Arrow Move text insertion point to document end
+Command-Up Arrow Move text insertion point to document beginning
+Command-Left Arrow Move text insertion point to current line beginning
+Command-Right Arrow Move text insertion point to current line end
+fn-Down Arrow Page Down
+fn-Up Arrow Page Up
+fn-Left Arrow First Page
+fn-Right Arrow Last Page
+Control-Option-Command-8 Universal Access: Invert color
+Option-Command-8 Universal Access: Zoom On or Off
+Option-Command-= Universal Access: Zoom In
+Option-Command— Universal Access: Zoom Out
+Shift-Command-Z Redo
+Shift-Command-slash(/) go to the Help menu
+Shift-Command-3 Capture the entire screen & Save as a file
+Shift-Command-Control-3 Capture the entire screen & Copy to the clipboard
